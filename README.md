@@ -1,16 +1,17 @@
-## Hi there 👋
+🌐 Socials:
+[LinkedIn](https://linkedin.com/in/shamran kyeswa) email
 
-<!--
-**kshamran/kshamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+JavaScript HTML5 PHP TypeScript Windows Terminal Python PowerShell Cloudflare AWS Flask FastAPI Laravel NodeJS React TailwindCSS Apache MySQL Supabase Postgres Pandas PyTorch GitHub Actions Docker Cisco Postman
 
-Here are some ideas to get you started:
+📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
